@@ -1,7 +1,0 @@
-Z:\vsproject\c#\demo\demo\bin\Debug\demo.exe.config
-Z:\vsproject\c#\demo\demo\bin\Debug\demo.exe
-Z:\vsproject\c#\demo\demo\bin\Debug\demo.pdb
-Z:\vsproject\c#\demo\demo\obj\Debug\demo.csproj.AssemblyReference.cache
-Z:\vsproject\c#\demo\demo\obj\Debug\demo.csproj.CoreCompileInputs.cache
-Z:\vsproject\c#\demo\demo\obj\Debug\demo.exe
-Z:\vsproject\c#\demo\demo\obj\Debug\demo.pdb
