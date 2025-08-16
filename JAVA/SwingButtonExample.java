@@ -27,6 +27,6 @@ public class SwingButtonExample {
         frame.setSize(350, 250);                      // Set frame size
         frame.setLayout(null);                        // No layout manager
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Close on exit
-        frame.setVisible(true);                       // Make frame visible
+        frame.setVisible(true);                      // Make frame visible
     }
 }
